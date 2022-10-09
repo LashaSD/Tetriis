@@ -1,4 +1,8 @@
-external
+SDL2
+*.lib
+*.a
+*.la
+*.pc
 *.mk
 *.exe
 *.dll
